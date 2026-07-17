@@ -4,7 +4,7 @@
 
 Supply chain operations generate large volumes of data every day, but without proper analysis, organizations struggle to identify inventory issues, evaluate supplier performance, monitor warehouse efficiency, and measure business profitability.
 
-This project uses **SQL, Microsoft Excel, and Power BI** to analyze supply chain data and transform raw information into actionable business insights that support operational and strategic decision-making.
+This project uses **SQL and Power BI** to analyze supply chain data and transform raw information into actionable business insights that support operational and strategic decision-making.
 
 ---
 
@@ -106,7 +106,6 @@ Revenue and profit metrics were analyzed to measure financial performance across
 # Tools & Technologies
 
 * SQL (MySQL)
-* Microsoft Excel
 * Power BI
 * DAX
 
@@ -158,4 +157,4 @@ This project helps organizations:
 
 # Project Outcome
 
-This project demonstrates an end-to-end supply chain analytics workflow using **SQL, Microsoft Excel, and Power BI**. It provides practical business insights into inventory management, supplier evaluation, warehouse performance, demand analysis, and profitability, enabling organizations to make informed operational and strategic decisions.
+This project demonstrates an end-to-end supply chain analytics workflow using **SQL and Power BI**. It provides practical business insights into inventory management, supplier evaluation, warehouse performance, demand analysis, and profitability, enabling organizations to make informed operational and strategic decisions.
